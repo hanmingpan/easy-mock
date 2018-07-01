@@ -24,7 +24,7 @@ desktop.ini
 npm-debug.log
 yarn-debug.log*
 yarn-error.log*
-dist
+#dist
 views/config.json
 public/upload
 .circleci
