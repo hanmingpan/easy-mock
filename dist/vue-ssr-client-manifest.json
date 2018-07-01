@@ -10,15 +10,15 @@
     "demo.png?d29da310e9de4bc564ce38e8e0019e17",
     "response.png?017d307dd957aba084a10c7dde236006",
     "qq-qun.jpg?09aec29dfea1f9d8aa8132e69cea97c3",
-    "app.fd32eb5504139cd94eac.js",
+    "app.c1c904bf914ca80f5768.js",
     "vendor.f27f30cba680ccff857b.js",
-    "manifest.a3ac0fa015f315ca1a68.js",
-    "common.fd32eb5504139cd94eac.css"
+    "manifest.305fd4604e1d4f4f1944.js",
+    "common.c1c904bf914ca80f5768.css"
   ],
   "initial": [
-    "manifest.a3ac0fa015f315ca1a68.js",
+    "manifest.305fd4604e1d4f4f1944.js",
     "vendor.f27f30cba680ccff857b.js",
-    "app.fd32eb5504139cd94eac.js"
+    "app.c1c904bf914ca80f5768.js"
   ],
   "async": [],
   "modules": {
