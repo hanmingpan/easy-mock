@@ -8,8 +8,5 @@
   "max_restarts": 10,
   "log_date_format": "YYYYMMDD",
   "out_file": "./logs/pm2_main/main.log",
-  "error_file": "./logs/pm2_error/error.log",
-  "env": {
-    "NODE_ENV": "production"
-  }
+  "error_file": "./logs/pm2_error/error.log"
 }
